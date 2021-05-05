@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "baseUrl": "./src",// ISSO É PARA ORIENTAR QUE OS MEUS ARQUIVOS QUE EU IREI IMPORTAR ESTA TUDO EM SRC
+
     "target": "es5",
     "lib": [
       "dom",
